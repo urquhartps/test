@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="ccc123" max_length="40" name="x_30083_config_ccc123" type="collection"/>
+</database>

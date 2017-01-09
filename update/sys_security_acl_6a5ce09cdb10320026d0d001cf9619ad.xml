@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_30083_config_ccc123</description>
+        <name>x_30083_config_ccc123</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-01-09 14:10:39</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>6a5ce09cdb10320026d0d001cf9619ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_30083_config_ccc123</sys_name>
+        <sys_package display_value="Config" source="x_30083_config">739ef300db10320026d0d001cf9619dc</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Config">739ef300db10320026d0d001cf9619dc</sys_scope>
+        <sys_update_name>sys_security_acl_6a5ce09cdb10320026d0d001cf9619ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-01-09 14:10:39</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
